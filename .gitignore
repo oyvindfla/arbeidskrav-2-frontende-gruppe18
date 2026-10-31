@@ -149,3 +149,13 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Turlyst
+.DS_Store
+dist/
+*.local
+.env
+.env.*
+!.env.example
+test-results/
+playwright-report/
