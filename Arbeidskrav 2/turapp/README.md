@@ -2,6 +2,14 @@
 
 React-klient for en turapp, laget som studentoppgave ved USN. Inneholder turer, hytter, kart, favoritter, fellesturer, ruteverksted og en enkel annonseportal. Norsk og engelsk støttes. Data og brukerhandlinger er lokale demonstrasjoner i nettleseren.
 
+## Deltakere
+
+Studenter som har deltatt i oppgaven:
+
+- Henrik Premer – 284870
+- Ola Eriksen Wold – 270198
+- Øivind Flatland – (studentnummer)
+
 ## Start
 
 Krever Node.js 22.12 eller nyere.
