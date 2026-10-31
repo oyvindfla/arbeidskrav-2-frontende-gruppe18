@@ -8,7 +8,7 @@ Studenter som har deltatt i oppgaven:
 
 - Henrik Premer – 284870
 - Ola Eriksen Wold – 270198
-- Øivind Flatland – (studentnummer)
+- Øivind Flatland – 960832
 
 ## Start
 
